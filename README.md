@@ -3,6 +3,7 @@
 ## JavaScript 学习笔记
 
  - [Array 类型](https://github.com/ElvisNam/blog/issues/1)
+ - [String 类型](https://github.com/ElvisNam/blog/issues/2)
  
 <br>
 
