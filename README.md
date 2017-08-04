@@ -7,6 +7,12 @@
  
 <br>
 
+## 兼容性
+
+ - [IE 下 button 与回车事件的兼容问题](https://github.com/ElvisNam/blog/issues/3)
+ 
+<br>
+
 ## 文章推荐
 
  - [深入剖析 JavaScript 的深复制 - 邹润阳](http://jerryzou.com/posts/dive-into-deep-clone-in-javascript/)
