@@ -16,6 +16,8 @@
 ## 文章推荐
 
  - [深入剖析 JavaScript 的深复制 - 邹润阳](http://jerryzou.com/posts/dive-into-deep-clone-in-javascript/)
+ - [CSS单词换行and断词，你真的完全了解吗](http://www.alloyteam.com/2016/05/css-word-for-word-breaker-do-you-really-understand/)
+ - [正则表达式入门](http://deerchao.net/tutorials/regex/regex.htm) 
  
 <br>
 
